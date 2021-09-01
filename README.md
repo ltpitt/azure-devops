@@ -1,6 +1,4 @@
 [![CI](https://github.com/ltpitt/azure-devops/actions/workflows/main.yml/badge.svg)](https://github.com/ltpitt/azure-devops/actions/workflows/main.yml)
 
-# azure-devops
-This is a repo to test azure devops
-
-## This was edited in Azure Cloud Shell 
+# python-ci-cli-tool
+This is a repo to test best practices and optimization in building Continous Integration for a Python CLI tool.
